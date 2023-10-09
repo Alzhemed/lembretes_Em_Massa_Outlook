@@ -1,0 +1,9 @@
+Este programa foi criado com a finalidade criar lembretes em massa no Outlook para os dias em que os períodos do PAC devem ser abertos ou fechados.
+
+1 - Instale o Python (Pode ser a versão mais recente).
+
+2 - Execute o programa.
+
+3 - Escolha as datas de início e fim dos lembretes.
+
+4 - Os lembretes foram inseridos no Outlook com sucesso!
